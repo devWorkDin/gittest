@@ -147,4 +147,7 @@ main figure{
     max-width: 90rem;
     border: 1rem solid #0f00;
 }
+header ul li a {
+    font-size: 1.5rem;
+}
 }
